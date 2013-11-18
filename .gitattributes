@@ -1,0 +1,13 @@
+* crlf eol=lf
+
+
+### Don't modify binary files.
+
+# Images
+
+*.bmp binary
+*.gif binary
+*.jp[e]g binary
+*.png binary
+*.svg binary
+*.tiff binary
